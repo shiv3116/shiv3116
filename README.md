@@ -5,8 +5,8 @@
  - 🛠 Technical Skills: Java, Angular, React, SQL, JavaScript, HTML/CSS
  - 🔧 Tools: SVN, VSCode, Eclipse IDE, DBeaver, GitHub
  - 🚀 Projects:
-    NewgenOne Omnidocs: Enhanced multimedia support and multilingual features.
-    Student Management System: A simple CRUD system built with Java Spring Boot.
+     - NewgenOne Omnidocs: Enhanced multimedia support and multilingual features.
+     - Student Management System: A simple CRUD system built with Java Spring Boot.
  - 🏆 Achievements:
      - 6★ in Problem Solving on HackerRank
      - 4★ (1911 max) on CodeChef
