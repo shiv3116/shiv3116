@@ -8,9 +8,9 @@
     NewgenOne Omnidocs: Enhanced multimedia support and multilingual features.
     Student Management System: A simple CRUD system built with Java Spring Boot.
  - 🏆 Achievements:
-    6★ in Problem Solving on HackerRank
-    4★ (1911 max) on CodeChef
-    Achieved Global Rank of 115 in CodeChef Snackdown Round 1B
+     - 6★ in Problem Solving on HackerRank
+     - 4★ (1911 max) on CodeChef
+     - Achieved Global Rank of 115 in CodeChef Snackdown Round 1B
 🌱 I’m always learning and looking to collaborate on exciting projects!
 📫 Reach me at: shiva.shar132001@gmail.com
 
