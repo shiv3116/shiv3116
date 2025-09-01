@@ -2,8 +2,8 @@
 
  - 🎓 B.Tech in Information Technology from KIET Group of Institutions, Ghaziabad (CGPA: 8.62)
  - 💼 Software Design Engineer (SDE) at Newgen Software since July 2023
- - 🛠 Technical Skills: Java, Angular, React, SQL, JavaScript, HTML/CSS
- - 🔧 Tools: SVN, VSCode, Eclipse IDE, DBeaver, GitHub
+ - 🛠 Technical Skills: Java, Spring Boot, Microservices Architecture, Kafka, Angular, React, SQL, JavaScript, HTML/CSS
+ - 🔧 Tools: SVN, VSCode, Eclipse IDE, DBeaver, GitHub, IntelliJ
  - 🚀 Projects:
      - NewgenOne Omnidocs: Enhanced multimedia support and multilingual features.
      - Student Management System: A simple CRUD system built with Java Spring Boot.
